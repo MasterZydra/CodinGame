@@ -13,4 +13,4 @@ All my source code from CodinGame.com
   - [x] Python3
 - Power of Thor - Episode 1
   - [ ] Pascal
-  - [ ] Python3
+  - [x] Python3
