@@ -7,7 +7,6 @@ All my source code from CodinGame.com
 ### Puzzles
 
 #### Classic Puzzle - Easy
-
 - Defibrillators
   - [ ] Pascal
   - [x] Python3
@@ -19,6 +18,23 @@ All my source code from CodinGame.com
   - [x] Python3
 - The Descent
   - [x] Pascal
+  - [x] Python3
+
+### Classic Puzzle - Medium
+- Scrabble
+  - [ ] Pascal
+  - [x] Python3
+- Shadow of the Knight - Episode 1
+  - [ ] Pascal
+  - [x] Python3
+- Stock Exchange Losses
+  - [ ] Pascal
+  - [x] Python3
+- The Gift
+  - [ ] Pascal
+  - [x] Python3
+- There is no Spoon - Episode 1
+  - [ ] Pascal
   - [x] Python3
 
 ### Classic Puzzle - Hard
