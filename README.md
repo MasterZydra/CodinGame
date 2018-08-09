@@ -4,63 +4,45 @@ All my source code from CodinGame.com
 ## Practice
 ### Puzzles
 **Classic Puzzle**
-- ASCII Art
-  - [ ] Pascal
-  - [x] Python3
-- Chuck Norris
-  - [ ] Pascal
-  - [x] Python3
-- Defibrillators
-  - [ ] Pascal
-  - [x] Python3
-- Horse-racing Duals
-  - [ ] Pascal
-  - [x] Python3
-- MIME Type
-  - [ ] Pascal
-  - [x] Python3
-- Mars Lander - Episode 1
-  - [ ] Pascal
-  - [x] Python3
-- Onboarding
-  - [ ] Pascal
-  - [x] Python3
-- Power of Thor - Episode 1
-  - [ ] Pascal
-  - [x] Python3
-- Temperatures
-  - [ ] Pascal
-  - [x] Python3
-- The Descent
-  - [x] Pascal
-  - [x] Python3
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| ASCII Art | x |   |
+| Chuck Norris | x |   |
+| Defibrillators | x |   |
+| Horse-racing Duals | x |   |
+| MIME Type | x |   |
+| Mars Lander - Episode 1 | x |   |
+| Onboarding | x |   |
+| Power of Thor - Episode 1 | x |   |
+| Temperatures | x |   |
+| The Descent | x | x |
+<br>
 
 **Classic Puzzle - Medium**
-- Scrabble
-  - [ ] Pascal
-  - [x] Python3
-- Shadow of the Knight - Episode 1
-  - [ ] Pascal
-  - [x] Python3
-- Stock Exchange Losses
-  - [ ] Pascal
-  - [x] Python3
-- The Gift
-  - [ ] Pascal
-  - [x] Python3
-- There is no Spoon - Episode 1
-  - [ ] Pascal
-  - [x] Python3
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Scrabble | x |   |
+| Shadow of the Knight - Episode 1 | x |   |
+| Stock Exchange Losses | x |   |
+| The Gift | x |   |
+| There is no Spoon - Episode 1 | x |   |
+<br>
 
 **Classic Puzzle - Hard**
-- Roller Coaster
-  - [ ] Pascal
-  - [x] Python3
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Roller Coaster | x |   |
+<br>
 
 ## Compete
 ### Games
 **Codegolf**
-- Power of Thor
-  - [x] Python3
-- Temperatures
-  - [x] Python3
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Power of Thor | x |   |
+| Temperatures | x |   |
+<br>
