@@ -7,13 +7,31 @@ All my source code from CodinGame.com
 ### Puzzles
 
 #### Classic Puzzle - Easy
+- ASCII Art
+  - [ ] Pascal
+  - [x] Python3
+- Chuck Norris
+  - [ ] Pascal
+  - [x] Python3
 - Defibrillators
   - [ ] Pascal
   - [x] Python3
 - Horse-racing Duals
   - [ ] Pascal
   - [x] Python3
+- MIME Type
+  - [ ] Pascal
+  - [x] Python3
+- Mars Lander - Episode 1
+  - [ ] Pascal
+  - [x] Python3
+- Onboarding
+  - [ ] Pascal
+  - [x] Python3
 - Power of Thor - Episode 1
+  - [ ] Pascal
+  - [x] Python3
+- Temperatures
   - [ ] Pascal
   - [x] Python3
 - The Descent
