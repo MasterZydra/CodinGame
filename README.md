@@ -1,12 +1,9 @@
 # CodinGame
-
 All my source code from CodinGame.com
 
 ## Practice
-
 ### Puzzles
-
-#### Classic Puzzle - Easy
+**Classic Puzzle**
 - ASCII Art
   - [ ] Pascal
   - [x] Python3
@@ -38,7 +35,7 @@ All my source code from CodinGame.com
   - [x] Pascal
   - [x] Python3
 
-### Classic Puzzle - Medium
+**Classic Puzzle - Medium**
 - Scrabble
   - [ ] Pascal
   - [x] Python3
@@ -55,7 +52,15 @@ All my source code from CodinGame.com
   - [ ] Pascal
   - [x] Python3
 
-### Classic Puzzle - Hard
+**Classic Puzzle - Hard**
 - Roller Coaster
   - [ ] Pascal
+  - [x] Python3
+
+## Compete
+### Games
+**Codegolf**
+- Power of Thor
+  - [x] Python3
+- Temperatures
   - [x] Python3
