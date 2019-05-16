@@ -18,7 +18,7 @@ All my source code from CodinGame.com
 | Temperatures | x |   |
 | The Descent | x | x |
 
-Community games
+**Classic Puzzle - Easy - Community**
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
