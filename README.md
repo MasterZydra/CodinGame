@@ -3,7 +3,7 @@ All my source code from CodinGame.com
 
 ## Practice
 ### Puzzles
-**Classic Puzzle**
+**Classic Puzzle - Easy**
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
@@ -17,6 +17,13 @@ All my source code from CodinGame.com
 | Power of Thor - Episode 1 | x |   |
 | Temperatures | x |   |
 | The Descent | x | x |
+
+Community games
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Ghost Legs (by java_coffe_cup) | x |   |
+
 <br>
 
 **Classic Puzzle - Medium**
