@@ -23,6 +23,7 @@ All my source code from CodinGame.com
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | Ghost Legs (by java_coffe_cup) | x |   |
+| ISBN Check digit (by java_coffee_cup) | x |   |
 
 <br>
 
