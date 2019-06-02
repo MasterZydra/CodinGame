@@ -24,6 +24,7 @@ All my source code from CodinGame.com
 |:-|:-:|:-:|
 | Ghost Legs (by java_coffe_cup) | x |   |
 | ISBN Check digit (by java_coffee_cup) | x |   |
+| Text formatting (by Cezariusz) | x |  | 
 
 <br>
 
