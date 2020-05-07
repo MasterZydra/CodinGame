@@ -46,12 +46,10 @@ while True:
     zombies = []
     for i in range(zombie_count):
         zombies.append([int(j) for j in input().split()])
-        #zombies.append(-1)
  
     # Set dist to max posible - (0|0) to (16000|9000)
     lowestDist = 18358
-    nearstZomId = -1
-    nearstZomId2 = -1
+    nearestZomId = -1
     
     for j in range(human_count):
         human_coord = [humans[j][1], humans[j][2]]
@@ -66,25 +64,20 @@ while True:
             # Get Distance from zombie to Ash
             distZomAsh = getDistance(zombie_coord, ash_next)
             
-            ash_next = getNextPos(ash_coord, human_coord, ASH_SPEED)
-            distHumAsh = getDistance(ash_next, human_coord)
-            
             # Calculate rounds the zombie needs to reach human
             remainingRounds = int(distZomHum/ZOMBIE_SPEED)
             # Calculate rounds Ash needs to reach zombie
             requiredRounds = int((distZomAsh - 0.5 * ASH_RANGE)/ASH_SPEED)
             
             # Check if zombie can be reached before zombie kills the human
-            # Or if the zombie is in kill range
-            reachable = remainingRounds >= requiredRounds #or distZomAsh <= ASH_RANGE
+            reachable = remainingRounds >= requiredRounds
             
             print("Zombie " + str(zombie_coord), file=sys.stderr)
             print("Remaining: " + str(remainingRounds) + " Required: " + str(requiredRounds), file=sys.stderr)
 
             if reachable and distZomHum < lowestDist:
-                nearstZomId = i
+                nearestZomId = i
                 lowestDist = distZomHum
-                nearstZomId2 = j
                 print("-> New aim", file=sys.stderr)
 
             print("DistZomHum: " + str(distZomHum), file=sys.stderr)
@@ -92,4 +85,4 @@ while True:
             print("---------------------", file=sys.stderr)
 
     # Your destination coordinates
-    print(str(zombies[nearstZomId][3]) + " " + str(zombies[nearstZomId][4]))
+    print(str(zombies[nearestZomId][3]) + " " + str(zombies[nearestZomId][4]))
