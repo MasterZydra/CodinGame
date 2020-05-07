@@ -48,10 +48,24 @@ All my source code from CodinGame.com
 
 ## Compete
 ### Games
+**Bot Programming**
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Back to the Code | x |   |
+<br>
+
 **Codegolf**
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | Power of Thor | x |   |
 | Temperatures | x |   |
+<br>
+
+**Optimization**
+
+| Puzzle | Python3 | Pascal |
+|:-|:-:|:-:|
+| Code vs Zombies | x |   |
 <br>
