@@ -1,10 +1,18 @@
 # CodinGame
 All my source code from CodinGame.com
 
-- [Practice](#practice)
-  - [Puzzles](#puzzles)
-- [Compete](#compete)
-  - [Games](#games)
+## [Practice](#practice)
+- [Puzzles](#puzzles)
+  - [Classic Puzzle - Easy](#classic-puzzle---easy)
+  - [Classic Puzzle - Easy - Community](#classic-puzzle---easy---community)
+  - [Classic Puzzle - Medium](#classic-puzzle---medium)
+  - [Classic Puzzle - Hard](#classic-puzzle---hard)
+
+## [Compete](#compete)
+- [Games](#games)
+  - [Bot Programming](#bot-programming)
+  - [Codegolf](#codegolf)
+  - [Optimization](#optimization)
 
 # Practice
 ## Puzzles
