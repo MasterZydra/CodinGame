@@ -7,16 +7,17 @@ All my source code from CodinGame.com
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
-| ASCII Art | x |   |
-| Chuck Norris | x |   |
-| Defibrillators | x |   |
-| Horse-racing Duals | x |   |
-| MIME Type | x |   |
-| Mars Lander - Episode 1 | x |   |
-| Onboarding | x |   |
-| Power of Thor - Episode 1 | x |   |
-| Temperatures | x |   |
-| The Descent | x | x |
+| [ASCII Art](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/ASCII%20Art) | x |   |
+| [Chuck Norris](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Chuck%20Norris) | x |   |
+| [Defibrillators](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Defibrillators) | x |   |
+| [Horse-racing Duals](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Horse-racing%20Duals) | x |   |
+| [MIME Type](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/MIME%20Type) | x |   |
+| [Mars Lander - Episode 1](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Mars%20Lander%20-%20Episode%201) | x |   |
+| [Onboarding](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Onboarding) | x |   |
+| [Power of Thor - Episode 1](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Power%20of%20Thor%20-%20Episode%201) | x |   |
+| [Temperatures](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Temperatures) | x |   |
+| [Text formatting](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Text%20formatting) | x | |
+| [The Descent](https://github.com/MasterZydra/CodinGame/tree/master/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/The%20Descent) | x | x |
 
 **Classic Puzzle - Easy - Community**
 
