@@ -1,10 +1,10 @@
 # CodinGame
 All my source code from CodinGame.com
 
-- [Practice](https://github.com/MasterZydra/CodinGame#practice)
-  - [Puzzles](https://github.com/MasterZydra/CodinGame#puzzles)
-- [Compete](https://github.com/MasterZydra/CodinGame#compete)
-  - [Games](https://github.com/MasterZydra/CodinGame#games)
+- [Practice](#practice)
+  - [Puzzles](#puzzles)
+- [Compete](#compete)
+  - [Games](#games)
 
 ## Practice
 ### Puzzles
