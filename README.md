@@ -6,9 +6,9 @@ All my source code from CodinGame.com
 - [Compete](#compete)
   - [Games](#games)
 
-## Practice
-### Puzzles
-**Classic Puzzle - Easy**
+# Practice
+## Puzzles
+### Classic Puzzle - Easy
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
@@ -23,7 +23,7 @@ All my source code from CodinGame.com
 | [Temperatures](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Temperatures) | x |   |
 | [The Descent](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/The%20Descent) | x | x |
 
-**Classic Puzzle - Easy - Community**
+### Classic Puzzle - Easy - Community
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
@@ -31,9 +31,7 @@ All my source code from CodinGame.com
 | [ISBN Check digit (by java_coffee_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/ISBN%20Check%20digit) | x |   |
 | [Text formatting (by Cezariusz)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Text%20formatting) | x |  | 
 
-<br>
-
-**Classic Puzzle - Medium**
+### Classic Puzzle - Medium
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
@@ -42,35 +40,30 @@ All my source code from CodinGame.com
 | [Stock Exchange Losses](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Stock%20Exchange%20Losses) | x |   |
 | [The Gift](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/The%20Gift) | x |   |
 | [There is no Spoon - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/There%20is%20no%20Spoon%20-%20Episode%201) | x |   |
-<br>
 
-**Classic Puzzle - Hard**
+### Classic Puzzle - Hard
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | [Roller Coaster](/Practice/Puzzles/Classic%20Puzzle%20-%20Hard/Roller%20Coaster) | x |   |
-<br>
 
-## Compete
-### Games
-**Bot Programming**
+# Compete
+## Games
+### Bot Programming
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | [Back to the Code](/Compete/Games/Bot%20Programming/Back%20to%20the%20Code) | x |   |
-<br>
 
-**Codegolf**
+### Codegolf
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | [Power of Thor](/Compete/Games/Codegolf/Power%20of%20Thor) | x |   |
 | [Temperatures](/Compete/Games/Codegolf/Temperatures) | x |   |
-<br>
 
-**Optimization**
+### Optimization
 
 | Puzzle | Python3 | Pascal |
 |:-|:-:|:-:|
 | [Code vs Zombies](/Compete/Games/Optimization/Code%20vs%20Zombies) | x |   |
-<br>
