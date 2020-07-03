@@ -37,6 +37,7 @@ All my source code from CodinGame.com
 |:-|:-:|:-:|
 | [Ghost Legs (by java_coffe_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Ghost%20Legs) | x |   |
 | [ISBN Check digit (by java_coffee_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/ISBN%20Check%20digit) | x |   |
+| [Sudoku Validator (by redCroc)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Sudoku%20Validator) | x |  |
 | [Text formatting (by Cezariusz)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Text%20formatting) | x |  | 
 
 ### Classic Puzzle - Medium
