@@ -20,14 +20,7 @@ for i in range(nb_elevators):
     elevator_floor, elevator_pos = [int(j) for j in input().split()]
     elevators[elevator_floor] = elevator_pos
 
-def wrongDirection(direction: str, goal: int, clone_pos: int) -> bool:
-    if direction == "RIGHT":
-        return goal < clone_pos
-    else:
-        return goal > clone_pos
-
-exitLevelPosBlock = False
-elevatorLevelPosBlock = [False] * nb_floors
+levelBlock = [False] * nb_floors
 
 # game loop
 while True:
@@ -40,14 +33,21 @@ while True:
 
     # Write an action using print
     # To debug: print("Debug messages...", file=sys.stderr, flush=True)
-    block = False
+    if clone_floor == exit_floor:
+        goal = exit_pos
+    elif clone_floor in elevators:
+        goal = elevators[clone_floor]
 
-    if clone_floor == exit_floor and wrongDirection(direction, exit_pos, clone_pos) and not exitLevelPosBlock:
-        exitLevelPosBlock = True
-        block = True
-    if clone_floor in elevators and wrongDirection(direction, elevators[clone_floor], clone_pos) and not elevatorLevelPosBlock[clone_floor]:
-        elevatorLevelPosBlock[clone_floor] = True
-        block = True
+    block = levelBlock[clone_floor]
+
+    if block:
+        print("WAIT")
+        contiue
+
+    if direction == "RIGHT":
+        block = goal < clone_pos
+    else:
+        block = goal > clone_pos
 
     # action: WAIT or BLOCK
     if block:
