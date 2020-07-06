@@ -48,6 +48,7 @@ All my source code from CodinGame.com
 | [Scrabble](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Scrabble) | Python3 |
 | [Shadow of the Knight - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Shadows%20of%20the%20Knight%20-%20Episode%201) | Python3 |
 | [Stock Exchange Losses](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Stock%20Exchange%20Losses) | Python3 |
+| [Telephone Numbers](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Telephone%20Numbers) | Python3 |
 | [The Gift](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/The%20Gift) | Python3 |
 | [The Last Crusade - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/The%20Last%20Crusade%20-%20Episode%201) | Python3 |
 | [There is no Spoon - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/There%20is%20no%20Spoon%20-%20Episode%201) | Python3 |
