@@ -41,6 +41,7 @@ All my source code from CodinGame.com
 | [ISBN Check digit (by java_coffee_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/ISBN%20Check%20digit) | Python3 |
 | [Sudoku Validator (by redCroc)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Sudoku%20Validator) | Python3 |
 | [Text formatting (by Cezariusz)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Text%20formatting) | Python3 |
+| [TicTacToe (by LaFayette)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/TicTacToe) | Python3 |
 
 ### Classic Puzzle - Medium
 
