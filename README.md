@@ -35,6 +35,7 @@ All my source code from CodinGame.com
 
 | Puzzle | Language(s) |
 |:-|:-|
+| [Create the longest sequence of 1s (by Waffle3z)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Create%20the%20longest%20sequence%20of%201s) | Python3 |
 | [Credit Card Verifier (Luhn’s algorithm) (by AminGholizad)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Credit%20Card%20Verifier%20(Luhn%E2%80%99s%20algorithm)) | Python3 |
 | [Ghost Legs (by java_coffe_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Ghost%20Legs) | Python3 |
 | [ISBN Check digit (by java_coffee_cup)](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/ISBN%20Check%20digit) | Python3 |
