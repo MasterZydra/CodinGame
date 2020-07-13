@@ -47,6 +47,7 @@ All my source code from CodinGame.com
 
 | Puzzle | Language(s) |
 |:-|:-|
+| [Conway Sequence](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Conway%20Sequence) | Python3 |
 | [Don't Panic - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Don't%20Panic%20-%20Episode%201) | Python3 |
 | [Scrabble](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Scrabble) | Python3 |
 | [Shadow of the Knight - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Medium/Shadows%20of%20the%20Knight%20-%20Episode%201) | Python3 |
