@@ -4,51 +4,28 @@ import math
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
 
-message = input()
-
 # Write an action using print
-# To debug: print >> sys.stderr, "Debug messages..."
+# To debug: print("Debug messages...", file=sys.stderr, flush=True)
 
-def toBinary(n):
-    return ''.join(str(1 & int(n) >> i) for i in range(7)[::-1])
-
-###### Chars to int
-intMessage = ''
-for c in message:
-    intMessage += str(ord(c)) + ','
-
-###### Ints to bin
-binMessage = ''
-i = 0
-ch = intMessage.split(',')
-for c in ch:
-    if c != '':
-        #print >> sys.stderr, str(int(c))
-        binMessage += str(toBinary(int(float(c))))
-
-#print >> sys.stderr, binMessage
-
-##### Bin to output
-outMessage = ''
-i = 0
-l = len(binMessage)
-while i < l:
-    s = binMessage[i]
-    j = i+1
-    count = 1
-    while j < l:
-        if binMessage[j] == s: 
-            j += 1
-            count += 1
-        else: break;
+def recursiveEncode(binaryMessage: str, prevResult = '') -> str:    
+    result = prevResult
+    count = 0
+    for char in binaryMessage:
+        if char != binaryMessage[0]:
+            break
+        count += 1
     
-    i = j
-    if s == '1': outMessage += '0 '
-    if s == '0': outMessage += '00 '
-    
-    k = 0
-    while k < count: outMessage += '0'; k+=1
-    
-    if i < len(binMessage): outMessage += ' '
+    result += '0 ' if binaryMessage[0] == '1' else '00 '
+    result += '0' * count
 
-print(outMessage)
+    if count == len(binaryMessage):
+        return result
+    return recursiveEncode(binaryMessage[count:], result + ' ')
+
+message = ''
+for char in input():
+    # Get ASCII value for char and use string format to get 7-digit binary
+    message += "{:07b}".format(ord(char))
+
+# Encode binary
+print(recursiveEncode(message))
