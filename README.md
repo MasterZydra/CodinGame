@@ -26,7 +26,7 @@ All my source code from CodinGame.com
 | [Horse-racing Duals](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Horse-racing%20Duals) | Python3 |
 | [MIME Type](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/MIME%20Type) | Python3 |
 | [Mars Lander - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Mars%20Lander%20-%20Episode%201) | Python3 |
-| [Onboarding](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Onboarding) | Python3 |
+| [Onboarding](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Onboarding) | Go, Python3 |
 | [Power of Thor - Episode 1](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Power%20of%20Thor%20-%20Episode%201) | Python3 |
 | [Temperatures](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/Temperatures) | Python3 |
 | [The Descent](/Practice/Puzzles/Classic%20Puzzle%20-%20Easy/The%20Descent) | Pascal, Python3 |
